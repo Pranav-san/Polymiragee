@@ -74,6 +74,11 @@
             margin-top: 2rem;
         }
 
+         .home-content p{
+            font-size: 2rem;
+
+        }
+
         .social-icons a {
             font-size: 2.5rem;
             margin-right: 1rem;
